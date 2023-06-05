@@ -6,6 +6,20 @@
       <list>
         <option value="$PROJECT_DIR$/demo-01-quickstart/pom.xml" />
         <option value="$PROJECT_DIR$/demo-02-configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-03-logging/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-05-ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-06-features/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-07-core/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-08-robot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-09-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-10-crud/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-11-rpc/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-12-message/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-13-security/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-14-actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-15-aot-common/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-16-aot-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-04-web/pom.xml" />
       </list>
     </option>
   </component>

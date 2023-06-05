@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestCurrentParamGroup">
+    <option name="className" value="cola.study.controller.HelloController" />
+    <option name="filePath" value="" />
+    <option name="method" value="sayHello" />
+    <option name="module" value="demo-01-quickstart" />
+    <option name="originUrl" value="/api/v1/hello/sayHello/{name}" />
+    <option name="pathParamMap">
+      <map>
+        <entry key="name">
+          <value>
+            <Object />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="returnDocument" value="&quot;No comment,Type =String&quot;" />
+    <option name="url" value="/api/v1/hello/sayHello/name_tkar4" />
+  </component>
+</project>

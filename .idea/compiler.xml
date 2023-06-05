@@ -2,17 +2,48 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="demo-09-redis" />
+        <module name="demo-06-features" />
+        <module name="demo-03-logging" />
+        <module name="demo-12-message" />
+        <module name="demo-13-security" />
+        <module name="demo-07-core" />
+        <module name="demo-10-crud" />
+        <module name="demo-08-robot-starter" />
         <module name="demo-01-quickstart" />
+        <module name="demo-11-rpc" />
+        <module name="demo-14-actuator" />
+        <module name="demo-02-configuration" />
+        <module name="demo-05-ssm" />
+        <module name="demo-15-aot-common" />
+        <module name="demo-04-web" />
+        <module name="demo-16-aot-springboot" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="demo-01-quickstart" options="-parameters" />
+      <module name="demo-02-configuration" options="-parameters" />
+      <module name="demo-03-logging" options="-parameters" />
+      <module name="demo-04-web" options="-parameters" />
+      <module name="demo-05-ssm" options="-parameters" />
+      <module name="demo-06-features" options="-parameters" />
+      <module name="demo-07-core" options="-parameters" />
+      <module name="demo-08-robot-starter" options="-parameters" />
+      <module name="demo-09-redis" options="-parameters" />
+      <module name="demo-10-crud" options="-parameters" />
+      <module name="demo-11-rpc" options="-parameters" />
+      <module name="demo-12-message" options="-parameters" />
+      <module name="demo-13-security" options="-parameters" />
+      <module name="demo-14-actuator" options="-parameters" />
+      <module name="demo-15-aot-common" options="-parameters" />
+      <module name="demo-16-aot-springboot" options="-parameters" />
     </option>
   </component>
 </project>
